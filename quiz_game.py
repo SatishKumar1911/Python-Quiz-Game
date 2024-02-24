@@ -47,6 +47,8 @@ while not game_end:
             answer_set.remove(answer_set[random_number])
         else:
             print("Incorrect")
+            question_set.remove(question_set[random_number])
+            answer_set.remove(answer_set[random_number])
 
     print("*"*30)
     print("Your Score:", score)
