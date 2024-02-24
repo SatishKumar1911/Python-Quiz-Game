@@ -15,4 +15,8 @@ This is a beginner-level console-based quiz game in Python. The game consists of
   <li>Run the game: python quiz_game.py</li>
 </ol>
 
+## Output
+
 ![image](https://github.com/SatishKumar1911/Python-Quiz-Game/assets/124880943/9353081d-ddcd-4095-ba65-5c1912e3457f)
+
+![image](https://github.com/SatishKumar1911/Python-Quiz-Game/assets/124880943/c60ac41b-b2d0-4c16-ae7e-8ebce6e8f920)
